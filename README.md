@@ -60,8 +60,29 @@
 
 ## Output:
 
-### Name: 
-### Register Number:
+X Axis Assembly
+
+<img width="1507" height="833" alt="image" src="https://github.com/user-attachments/assets/cb6e47db-d870-4a6f-9b38-7403dd97ac65" />
+
+Y Axis Assembly
+
+<img width="1324" height="737" alt="image" src="https://github.com/user-attachments/assets/fe848e6a-2e92-46db-a127-0995487a716f" />
+
+Z Axis Assembly
+
+<img width="1355" height="758" alt="image" src="https://github.com/user-attachments/assets/83413d15-4cb4-4f0c-b671-952e89804b90" />
+
+Completed Assembly
+
+<img width="1365" height="790" alt="image" src="https://github.com/user-attachments/assets/1cf08f4e-f87f-42a4-b9d6-b93b149d7b0d" />
+
+Playing with Axis
+
+<img width="1299" height="815" alt="image" src="https://github.com/user-attachments/assets/f24b032c-4e26-4359-9fce-83028bb00016" />
+
+
+### Name: JAYASRI L
+### Register Number:212224040136
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
